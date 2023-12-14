@@ -1,4 +1,4 @@
-package com.techinfinities.pnpcodes;
+package com.techinfinities.pnpcodes.javaForEach;
 
 import java.util.ArrayList;
 import java.util.Iterator;
